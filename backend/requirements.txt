@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-yfinance[standard]
-pandas
-numpy
-python-dotenv
-requests
-# Add other ML/data libraries later (e.g., scikit-learn, tensorflow/pytorch, statsmodels)
